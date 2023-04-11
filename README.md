@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on U3d gameplay development coder.
-- 🌱 I’m currently learning C#/python/Shader
-- 📫 How to reach me: ubitastypotato@gmail.com
+- 🔭 I’m currently working on U3d gameplay development coder.  
+- 🌱 I’m currently learning C#/python/Shader  
+- 📫 How to reach me: ubitastypotato@gmail.com  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Null-Bot9875)](https://github.com/anuraghazra/github-readme-stats)
